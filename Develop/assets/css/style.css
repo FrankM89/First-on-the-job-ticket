@@ -24,6 +24,8 @@ body {
     color: #d9dcd6;
 }
 
+/* Replaced div with section */
+
 .header section {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,9 +34,13 @@ body {
     font-size: 20px;
 }
 
+/* Replaced div ul with section il */
+
 .header section ul {
     list-style-type: none;
 }
+
+/* Replaced div ul li with section ul li */
 
 .header section ul li {
     display: inline-block;
