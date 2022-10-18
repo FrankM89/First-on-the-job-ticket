@@ -17,6 +17,12 @@ The website was written in HTML and CSS!
     < section > < /section > and < article > < /article >
  </ul>
 
+## Collaborators
+ <ul>
+   <li>Xander Rapstine - <a href="https://github.com/Xandromus">Xandromus</a></li>
+   <li>Francisco Muniz - <a href="https://github.com/FrankM89">FrankM89</a></li>
+ </ul>
+      
 ## License
 
 All code in this repository is licensed by MIT License ( <a href="https://github.com/FrankM89/First-on-the-job-ticket/blob/main/LICENSE">LICENSE-MIT</a> )
