@@ -19,6 +19,6 @@ The website was written in HTML and CSS!
 
 ## License
 
-All code in this repository is licensed by MIT License ( <a href="">LICENSE-MIT</a> )
+All code in this repository is licensed by MIT License ( <a href="https://github.com/FrankM89/First-on-the-job-ticket/blob/main/LICENSE">LICENSE-MIT</a> )
 
 
