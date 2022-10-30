@@ -27,6 +27,12 @@ The website was written in HTML and CSS!
   <ul>
       <li> <a href="https://frankm89.github.io/First-on-the-job-ticket/">First-on-the-job-ticket</a></li>
   </ul>
+  
+## Screenshots
+  <ol>
+      <li> (https://i.postimg.cc/N0vg9GrD/Screenshot-5.png)](https://postimg.cc/v4XRCshx) </li>
+      <li> (https://i.postimg.cc/V6GQRz53/Screenshot-6.png)](https://postimg.cc/k6bpM3Qc) </li>
+  </ol>
       
 ## License
 
