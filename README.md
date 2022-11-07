@@ -1,6 +1,6 @@
 # First-on-the-job-ticket
 
-This repository dontains the Acceptance Criteria needed to complete this challenge.
+This repository contains the Acceptance Criteria needed to complete this challenge.
 
 ## Description
 
